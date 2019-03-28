@@ -1,0 +1,2 @@
+O(n * m) time, where n is array size and m is longest name length
+O(1) space

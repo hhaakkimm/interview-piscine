@@ -1,0 +1,2 @@
+O(N * M), where N is length of first string, m is length of second one
+O(M) space

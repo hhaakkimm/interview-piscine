@@ -1,0 +1,2 @@
+O(log(n) * m), where n is size of our array, and m is longest name length
+O(1) space

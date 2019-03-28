@@ -1,0 +1,2 @@
+O(n * m) where n is size of array, m is length of longest string
+O(n) space
