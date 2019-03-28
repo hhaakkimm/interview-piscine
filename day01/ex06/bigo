@@ -1,0 +1,2 @@
+O((N + N) * K) => O(N) time, where is N is number of cities and k is recursion magic time
+O(1) space

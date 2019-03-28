@@ -1,0 +1,2 @@
+O(N * M) time, where N is number of queries and M is longest chunk
+O(N) space, where N is number of queries
