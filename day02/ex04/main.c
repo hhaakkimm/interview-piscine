@@ -17,10 +17,10 @@ int main(void)
 	--------------------*/
 	printUtensils(utensils, n);
 
-	//printf("sorting using count sort...\n");
-	//countSort(utensils, n);
+	printf("sorting using count sort...\n");
+	countSort(utensils, n);
 
-	//printUtensils(utensils, n);
+	printUtensils(utensils, n);
 
 	return (0);
 }

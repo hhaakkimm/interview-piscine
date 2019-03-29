@@ -1,0 +1,2 @@
+O(N * log(N)) time, where N is players count
+O(N) space

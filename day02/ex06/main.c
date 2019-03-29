@@ -22,12 +22,12 @@ int main(int ac, char **av)
 	/*-------------------
 	launch your test here
 	--------------------*/
-
-	// sortCriminals(criminals);
-	// info = getInfo(av[1]);
-	// potentialCriminals = findPotentialCriminals(criminals, info);
-	// printCriminals(potentialCriminals);
-
+	
+	sortCriminals(criminals);
+	info = getInfo(av[1]);
+	potentialCriminals = findPotentialCriminals(criminals, info);
+	printCriminals(potentialCriminals);
+	// printf("Hello\n");
 	return (0);
 }
 
@@ -77,7 +77,7 @@ struct s_info *getInfo(char *description) {
 	if(!(info = (int *)malloc(sizeof(struct s_info))))
 		return (NULL);
 	for (int i = 0; description[i]; i++) {
-		info[i] = description[i] - '0';
+		info[i] = description[i] - '0';	
 	}
 	return ((struct s_info *)info);
 }

@@ -16,9 +16,9 @@ int main(void)
 	launch your test here
 	--------------------*/
 	printPlayers(players);
-	//printf("doing the insertion sort...\n");
-	//insertionSort(players);
-	//printPlayers(players);
+	printf("doing the insertion sort...\n");
+	insertionSort(players);
+	printPlayers(players);
 
 	return (0);
 }

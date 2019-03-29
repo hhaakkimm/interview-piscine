@@ -1,0 +1,7 @@
+find:
+O(logn) - in time, iterative binary search.
+O(1) - in space.
+
+sort:
+O(n+b) - in time, n - number of items in array, b - base for numbers.
+O(n+b) - in space, for result array and count array.

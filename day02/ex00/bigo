@@ -1,0 +1,2 @@
+O(M * M + N) time , where M is group number, and N is stone number
+O(M) space

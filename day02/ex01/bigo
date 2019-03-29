@@ -1,0 +1,2 @@
+O(n * n) time, where  n is size of elements array
+O(1) space
