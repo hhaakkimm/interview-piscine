@@ -1,0 +1,2 @@
+O(N * K) => O(N) time, where N is size of array and k is coefficient of recursion
+O(N) space 
