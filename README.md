@@ -12,8 +12,9 @@ Over the course of 8 days of assignments, the following topics were covered:
 
 ## Useful links
 https://github.com/hhaakkimm/algos - Implementations of many algorithms<br>
+https://bit.ly/2yHfdyc - Must read book for Interview preparation<br>
 https://cses.fi/book/book.pdf - Competitive Programmer’s Handbook<br>
 http://e-maxx.ru/algo/ - Good explanation of algorithms in Russian<br>
-https://medium.com/@kingrayhan/500-data-structures-and-algorithms-practice-problems-and-their-solutions-b45a83d803f0 - Another List of Algorithms<br>
+https://bit.ly/2B360DZ - Another List of Algorithms<br>
 https://discuss.codechef.com/t/data-structures-and-algorithms/6599 - Algorithms and problems<br>
 https://leetcode.com/ - Practice problems<br>
